@@ -19,7 +19,7 @@ Las actividades del TP1 se encuentran en el directorio `files` de este repositor
 
 ## ✅ Resolución
 
-Este repositorio contiene la **resolución completa** del TP1, mostrando la **aplicación práctica de los conceptos de HTML** en el siguiente link. LINK:
+Este repositorio contiene la **resolución completa** del TP1, mostrando la **aplicación práctica de los conceptos de HTML** en el siguiente link. LINK: https://valenisgroo.github.io/DsW-TP1-html-UTN/ 
 
 ---
 
