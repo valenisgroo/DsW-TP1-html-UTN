@@ -1,9 +1,16 @@
-Este respositorio muestra el primer TP de la materia Desarrollo de Sofrtware en la UTN.
+TP1: HTML - Desarrollo de Software (UTN)
+Bienvenido al repositorio del primer trabajo práctico (TP1) de la materia Desarrollo de Software en la UTN. Este proyecto está enfocado en dominar los fundamentos de HTML.
 
-El objetivo del TP1 es aprender el funcionamiento de HTML, en la cual están involucradas la mayoría de sus etiquetas con sus atributos.
+Objetivo
+El objetivo del TP1 es obtener una comprensión integral de HTML explorando y utilizando una amplia variedad de etiquetas y sus atributos.
 
-**TP1: HTML**
+Descripción del Proyecto
+En este proyecto, encontrarás:
 
-Consignas: Las actividades del TP se pueden descargar/obtener desde la carpeta files de este mismo repositorio.
+Estructura HTML: Implementación de diversos elementos HTML para crear una página web estructurada.
+Atributos y Etiquetas: Uso de múltiples etiquetas y atributos para demostrar la versatilidad de HTML.
+Consignas
+Las actividades y directrices del TP1 se encuentran en el directorio files de este repositorio.
 
-Resolución: Esta es su resolución
+Resolución
+Este repositorio contiene la resolución completa del TP1, mostrando la aplicación práctica de los conceptos de HTML.
